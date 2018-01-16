@@ -1,1 +1,3 @@
 # Artificial-Datasets
+
+Artificial datasets used as benchmarking for locally conservation analysis in proteins. Check the guide files in order to obtain the correct clusters. Dataset 1 contains only pairwise correlations between specific amino acids, and dataset 2 includes stereochemical propoerties.
